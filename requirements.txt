@@ -1,0 +1,8 @@
+'''
+this is the requirements text file for the messier app and tests
+'''
+
+flask==1.1.1
+requests==2.22.0
+beautifulsoup4==4.8.1
+unittest==0.0.1
